@@ -15,7 +15,7 @@
   "TEMPO_DE_CMD": "Aguarde #tempo# Segundos ate executar outro comando, tempo a concluir: ⏳ #tempocmd#",
   "isRecolherLink": false,
   "EstaNogrupo": false,
-  "dono1": ".",
+  "dono1": "..",
   "dono2": ".",
   "dono3": ".",
   "dono4": ".",
