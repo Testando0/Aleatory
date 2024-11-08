@@ -122,7 +122,7 @@ colors: [`${cor3}`,`${cor1}`,`${cor5}`],
 lineHeight: 1
 });
  
-const banner3 = cfonts.render((`ALEATORY MD\n4.1`), {
+const banner3 = cfonts.render((`ALEATORY MD\n4.5`), {
 font: 'slick',             
 align: 'center',           
 colors: [`${cor1}`,`${cor3}`,`${cor4}`,`${cor2}`],
