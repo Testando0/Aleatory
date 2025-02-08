@@ -21,6 +21,12 @@ MENSAGENS_DE_AGUARDE: ["[ ! ] Aguarde amigo, estou fazendo...", "Vai beber uma �
 // LINK DA IMAGEM DO COMANDO DE CASAL
 LINK_COMANDO_CASAL: "https://dl.dropboxusercontent.com/scl/fi/ynkfv6q0fxefqqhz8n2ng/casal.jpg?rlkey=7oi7ao5ue6bva9hyf7snalwvv&st=sqzcrq40&dl=1",
 
+// LINK DA IMAGEM DO COMANDO DE PEDIR EM CASAMENTO
+PEDIDO_CASAMENTO_IMG: "https://dl.dropboxusercontent.com/scl/fi/g2qlmqxsoazntn368qk96/pedido-de-casamento.webp?rlkey=rnse3iuyxhjjkx3j3xhjz4z12&st=ks6gnyq8&dl=1",
+
+// LINK QUE MOSTRA 2 PERSONAGENS CASADOS, PARA O COMANDO CASAMENTO
+CASAMENTO_IMG: "https://dl.dropboxusercontent.com/scl/fi/xiut0078xklp860fhyxwo/casados_comando.png?rlkey=u5j92lpuxj3ghetbcslygk3mb&e=1&st=6efat30n&dl=1",
+
 // TEXTO DO COMANDO DE CASAL // O #porcentagem# vai puxar de 0 a 100.
 TEXTO_COMANDO_CASAL: `🌟 Casal do grupo com ॐ #porcentagem# ✨ de chance pra da certo 😏:`,
 
