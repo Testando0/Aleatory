@@ -13,4 +13,4 @@ COPY ./root/Aleatory
 
 RUN npm install
 
-CMD ["node", "connect.js"]
+CMD ["node", "iniciar.js"]
