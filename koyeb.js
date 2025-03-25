@@ -5,12 +5,12 @@ RUN sudo dnf -y update &&\
     sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
     sudo dnf clean all -y
 
-RUN git clone https://github.com/GataNina-Li/GataBot-MD
+RUN git clone https://github.com/testando0/Aleatory
 
-WORKDIR /root/GataBot-MD
+WORKDIR /root/Aleatory
 
-COPY ./root/GataBot-MD
+COPY ./root/Aleatory
 
-RUN yarn install
+RUN npm install
 
-CMD ["node", "index.js"]
+CMD ["node", "connect.js"]
